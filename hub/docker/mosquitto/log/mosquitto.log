@@ -1,0 +1,1637 @@
+1711413717: mosquitto version 2.0.18 starting
+1711413717: Config loaded from /mosquitto/config/mosquitto.conf.
+1711413717: Opening ipv4 listen socket on port 1883.
+1711413717: Opening ipv6 listen socket on port 1883.
+1711413717: mosquitto version 2.0.18 running
+1711414230: mosquitto version 2.0.18 terminating
+1711414230: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711414230: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711414356: mosquitto version 2.0.18 starting
+1711414356: Config loaded from /mosquitto/config/mosquitto.conf.
+1711414356: Opening ipv4 listen socket on port 1883.
+1711414356: Opening ipv6 listen socket on port 1883.
+1711414356: mosquitto version 2.0.18 running
+1711414383: mosquitto version 2.0.18 terminating
+1711414383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711414383: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711414437: mosquitto version 2.0.18 starting
+1711414437: Config loaded from /mosquitto/config/mosquitto.conf.
+1711414437: Opening ipv4 listen socket on port 1883.
+1711414437: Opening ipv6 listen socket on port 1883.
+1711414437: mosquitto version 2.0.18 running
+1711414648: mosquitto version 2.0.18 terminating
+1711414648: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711414648: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711414665: mosquitto version 2.0.18 starting
+1711414665: Config loaded from /mosquitto/config/mosquitto.conf.
+1711414665: Opening ipv4 listen socket on port 1883.
+1711414665: Opening ipv6 listen socket on port 1883.
+1711414665: mosquitto version 2.0.18 running
+1711414725: mosquitto version 2.0.18 terminating
+1711414725: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711414725: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711414741: mosquitto version 2.0.18 starting
+1711414741: Config loaded from /mosquitto/config/mosquitto.conf.
+1711414741: Opening ipv4 listen socket on port 1883.
+1711414741: Opening ipv6 listen socket on port 1883.
+1711414741: mosquitto version 2.0.18 running
+1711414743: New connection from 172.20.0.3:54127 on port 1883.
+1711414743: New client connected from 172.20.0.3:54127 as auto-BFCEA94D-3586-6D63-FE33-79637196BC0D (p2, c1, k60).
+1711414928: Client auto-BFCEA94D-3586-6D63-FE33-79637196BC0D closed its connection.
+1711414928: mosquitto version 2.0.18 terminating
+1711414928: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711414928: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711414954: mosquitto version 2.0.18 starting
+1711414954: Config loaded from /mosquitto/config/mosquitto.conf.
+1711414954: Opening ipv4 listen socket on port 1883.
+1711414954: Opening ipv6 listen socket on port 1883.
+1711414954: mosquitto version 2.0.18 running
+1711414956: New connection from 172.20.0.3:58483 on port 1883.
+1711414956: New client connected from 172.20.0.3:58483 as auto-3E24A675-2680-3917-553F-3E9F4871A8BF (p2, c1, k60).
+1711415154: Client auto-3E24A675-2680-3917-553F-3E9F4871A8BF closed its connection.
+1711415155: mosquitto version 2.0.18 terminating
+1711415155: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711415155: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711415233: mosquitto version 2.0.18 starting
+1711415233: Config loaded from /mosquitto/config/mosquitto.conf.
+1711415233: Opening ipv4 listen socket on port 1883.
+1711415233: Opening ipv6 listen socket on port 1883.
+1711415233: mosquitto version 2.0.18 running
+1711415236: New connection from 172.20.0.3:59735 on port 1883.
+1711415236: New client connected from 172.20.0.3:59735 as auto-8AED0052-94D0-E597-9E4A-63B3AD7C6622 (p2, c1, k60).
+1711415533: Client auto-8AED0052-94D0-E597-9E4A-63B3AD7C6622 closed its connection.
+1711415533: mosquitto version 2.0.18 terminating
+1711415533: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711415533: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711415890: mosquitto version 2.0.18 starting
+1711415890: Config loaded from /mosquitto/config/mosquitto.conf.
+1711415890: Opening ipv4 listen socket on port 1883.
+1711415890: Opening ipv6 listen socket on port 1883.
+1711415890: mosquitto version 2.0.18 running
+1711415892: New connection from 172.20.0.3:53507 on port 1883.
+1711415892: New client connected from 172.20.0.3:53507 as auto-649B0587-DCD2-D3E6-331D-D535D5179758 (p2, c1, k60).
+1711416000: New connection from 192.168.65.1:46701 on port 1883.
+1711416000: New client connected from 192.168.65.1:46701 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711416540: Client mqtt-explorer-a5b1bd0a disconnected.
+1711416542: New connection from 192.168.65.1:47822 on port 1883.
+1711416542: New client connected from 192.168.65.1:47822 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711416675: Client auto-649B0587-DCD2-D3E6-331D-D535D5179758 closed its connection.
+1711416675: mosquitto version 2.0.18 terminating
+1711416675: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711416675: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711416834: mosquitto version 2.0.18 starting
+1711416834: Config loaded from /mosquitto/config/mosquitto.conf.
+1711416834: Opening ipv4 listen socket on port 1883.
+1711416834: Opening ipv6 listen socket on port 1883.
+1711416834: mosquitto version 2.0.18 running
+1711416835: New connection from 192.168.65.1:48165 on port 1883.
+1711416835: New client connected from 192.168.65.1:48165 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711416836: New connection from 172.20.0.3:35763 on port 1883.
+1711416836: New client connected from 172.20.0.3:35763 as auto-DE384598-4CFE-E915-7C0F-9AB27090D9A9 (p2, c1, k60).
+1711416844: Client auto-DE384598-4CFE-E915-7C0F-9AB27090D9A9 closed its connection.
+1711416844: mosquitto version 2.0.18 terminating
+1711416844: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711416844: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711416875: mosquitto version 2.0.18 starting
+1711416875: Config loaded from /mosquitto/config/mosquitto.conf.
+1711416875: Opening ipv4 listen socket on port 1883.
+1711416875: Opening ipv6 listen socket on port 1883.
+1711416875: mosquitto version 2.0.18 running
+1711416876: New connection from 192.168.65.1:48451 on port 1883.
+1711416876: New client connected from 192.168.65.1:48451 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711416877: New connection from 172.20.0.3:34449 on port 1883.
+1711416877: New client connected from 172.20.0.3:34449 as auto-DFB375ED-7D54-C495-C553-9CCAE03F8C51 (p2, c1, k60).
+1711416894: Client mqtt-explorer-a5b1bd0a disconnected.
+1711416896: New connection from 192.168.65.1:48577 on port 1883.
+1711416896: New client connected from 192.168.65.1:48577 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711417327: Client auto-DFB375ED-7D54-C495-C553-9CCAE03F8C51 closed its connection.
+1711417327: mosquitto version 2.0.18 terminating
+1711417327: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711417327: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711417335: mosquitto version 2.0.18 starting
+1711417335: Config loaded from /mosquitto/config/mosquitto.conf.
+1711417335: Opening ipv4 listen socket on port 1883.
+1711417335: Opening ipv6 listen socket on port 1883.
+1711417335: mosquitto version 2.0.18 running
+1711417336: New connection from 192.168.65.1:49750 on port 1883.
+1711417336: New client connected from 192.168.65.1:49750 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711417337: New connection from 172.20.0.3:37029 on port 1883.
+1711417337: New client connected from 172.20.0.3:37029 as auto-11B235C0-3C47-330B-57C5-CACFFB7332CC (p2, c1, k60).
+1711417351: Client mqtt-explorer-a5b1bd0a disconnected.
+1711417352: New connection from 192.168.65.1:49865 on port 1883.
+1711417352: New client connected from 192.168.65.1:49865 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711417848: Client auto-11B235C0-3C47-330B-57C5-CACFFB7332CC closed its connection.
+1711417849: mosquitto version 2.0.18 terminating
+1711417849: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711417849: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711417863: mosquitto version 2.0.18 starting
+1711417863: Config loaded from /mosquitto/config/mosquitto.conf.
+1711417863: Opening ipv4 listen socket on port 1883.
+1711417863: Opening ipv6 listen socket on port 1883.
+1711417863: mosquitto version 2.0.18 running
+1711417863: New connection from 192.168.65.1:51204 on port 1883.
+1711417863: New client connected from 192.168.65.1:51204 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711417865: New connection from 172.20.0.3:41995 on port 1883.
+1711417865: New client connected from 172.20.0.3:41995 as auto-9E904542-0851-77C3-94F7-99857CA89AF6 (p2, c1, k60).
+1711417923: Client mqtt-explorer-a5b1bd0a disconnected.
+1711417925: New connection from 192.168.65.1:51444 on port 1883.
+1711417925: New client connected from 192.168.65.1:51444 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711418896: Client auto-9E904542-0851-77C3-94F7-99857CA89AF6 closed its connection.
+1711419145: mosquitto version 2.0.18 starting
+1711419145: Config loaded from /mosquitto/config/mosquitto.conf.
+1711419145: Opening ipv4 listen socket on port 1883.
+1711419145: Opening ipv6 listen socket on port 1883.
+1711419145: mosquitto version 2.0.18 running
+1711419145: New connection from 192.168.65.1:53484 on port 1883.
+1711419145: New client connected from 192.168.65.1:53484 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711419147: New connection from 172.20.0.3:49613 on port 1883.
+1711419147: New client connected from 172.20.0.3:49613 as auto-55C17A5D-A109-21A0-A4A0-57AB4F70B5F9 (p2, c1, k60).
+1711419158: Client auto-55C17A5D-A109-21A0-A4A0-57AB4F70B5F9 closed its connection.
+1711419159: mosquitto version 2.0.18 terminating
+1711419159: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711419159: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711419175: mosquitto version 2.0.18 starting
+1711419175: Config loaded from /mosquitto/config/mosquitto.conf.
+1711419175: Opening ipv4 listen socket on port 1883.
+1711419175: Opening ipv6 listen socket on port 1883.
+1711419175: mosquitto version 2.0.18 running
+1711419175: New connection from 192.168.65.1:53924 on port 1883.
+1711419175: New client connected from 192.168.65.1:53924 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711419177: New connection from 172.20.0.3:51187 on port 1883.
+1711419177: New client connected from 172.20.0.3:51187 as auto-1452DE4C-0621-D584-25C7-A05C8D925FEE (p2, c1, k60).
+1711419182: Client mqtt-explorer-a5b1bd0a disconnected.
+1711419184: New connection from 192.168.65.1:53943 on port 1883.
+1711419184: New client connected from 192.168.65.1:53943 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711419394: Client auto-1452DE4C-0621-D584-25C7-A05C8D925FEE closed its connection.
+1711419394: mosquitto version 2.0.18 terminating
+1711419394: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711419394: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711419406: mosquitto version 2.0.18 starting
+1711419406: Config loaded from /mosquitto/config/mosquitto.conf.
+1711419406: Opening ipv4 listen socket on port 1883.
+1711419406: Opening ipv6 listen socket on port 1883.
+1711419406: mosquitto version 2.0.18 running
+1711419407: New connection from 192.168.65.1:54366 on port 1883.
+1711419407: New client connected from 192.168.65.1:54366 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711419408: New connection from 172.20.0.3:44969 on port 1883.
+1711419408: New client connected from 172.20.0.3:44969 as auto-F27F088A-DC79-4A2A-C0AA-2FB9C5CB2606 (p2, c1, k60).
+1711419654: mosquitto version 2.0.18 terminating
+1711419654: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711419654: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711419971: mosquitto version 2.0.18 starting
+1711419971: Config loaded from /mosquitto/config/mosquitto.conf.
+1711419971: Opening ipv4 listen socket on port 1883.
+1711419971: Opening ipv6 listen socket on port 1883.
+1711419971: mosquitto version 2.0.18 running
+1711419972: New connection from 192.168.65.1:55468 on port 1883.
+1711419972: New client connected from 192.168.65.1:55468 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711419999: mosquitto version 2.0.18 terminating
+1711419999: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711419999: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711420017: mosquitto version 2.0.18 starting
+1711420017: Config loaded from /mosquitto/config/mosquitto.conf.
+1711420017: Opening ipv4 listen socket on port 1883.
+1711420017: Opening ipv6 listen socket on port 1883.
+1711420017: mosquitto version 2.0.18 running
+1711420018: New connection from 192.168.65.1:55982 on port 1883.
+1711420018: New client connected from 192.168.65.1:55982 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711420089: mosquitto version 2.0.18 terminating
+1711420089: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711420089: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711421148: mosquitto version 2.0.18 starting
+1711421148: Config loaded from /mosquitto/config/mosquitto.conf.
+1711421148: Opening ipv4 listen socket on port 1883.
+1711421148: Opening ipv6 listen socket on port 1883.
+1711421148: mosquitto version 2.0.18 running
+1711421148: New connection from 192.168.65.1:48743 on port 1883.
+1711421148: New client connected from 192.168.65.1:48743 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711421151: New connection from 172.20.0.3:37411 on port 1883.
+1711421151: New client connected from 172.20.0.3:37411 as auto-22982188-926B-CAE9-4717-C41088F4E8E5 (p2, c1, k60).
+1711421163: Client mqtt-explorer-a5b1bd0a disconnected.
+1711421164: New connection from 192.168.65.1:48806 on port 1883.
+1711421164: New client connected from 192.168.65.1:48806 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711421204: Client auto-22982188-926B-CAE9-4717-C41088F4E8E5 closed its connection.
+1711421204: mosquitto version 2.0.18 terminating
+1711421204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711421204: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711422212: mosquitto version 2.0.18 starting
+1711422212: Config loaded from /mosquitto/config/mosquitto.conf.
+1711422212: Opening ipv4 listen socket on port 1883.
+1711422212: Opening ipv6 listen socket on port 1883.
+1711422212: mosquitto version 2.0.18 running
+1711422213: New connection from 192.168.65.1:53744 on port 1883.
+1711422213: New client connected from 192.168.65.1:53744 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711422215: New connection from 172.26.0.3:55875 on port 1883.
+1711422215: New client connected from 172.26.0.3:55875 as auto-A89EBD65-0F5B-BD45-B167-FD2B12FAB99D (p2, c1, k60).
+1711422231: Client mqtt-explorer-a5b1bd0a disconnected.
+1711422232: New connection from 192.168.65.1:53880 on port 1883.
+1711422232: New client connected from 192.168.65.1:53880 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711422620: Client auto-A89EBD65-0F5B-BD45-B167-FD2B12FAB99D closed its connection.
+1711422621: mosquitto version 2.0.18 terminating
+1711422621: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711422621: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711422793: mosquitto version 2.0.18 starting
+1711422793: Config loaded from /mosquitto/config/mosquitto.conf.
+1711422793: Opening ipv4 listen socket on port 1883.
+1711422793: Opening ipv6 listen socket on port 1883.
+1711422793: mosquitto version 2.0.18 running
+1711422793: New connection from 192.168.65.1:54987 on port 1883.
+1711422793: New client connected from 192.168.65.1:54987 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711422795: New connection from 172.26.0.3:43959 on port 1883.
+1711422795: New client connected from 172.26.0.3:43959 as auto-532F205C-0FC8-6272-9699-2959F5CD678A (p2, c1, k60).
+1711423034: Client auto-532F205C-0FC8-6272-9699-2959F5CD678A closed its connection.
+1711423034: mosquitto version 2.0.18 terminating
+1711423034: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711423034: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711423362: mosquitto version 2.0.18 starting
+1711423362: Config loaded from /mosquitto/config/mosquitto.conf.
+1711423362: Opening ipv4 listen socket on port 1883.
+1711423362: Opening ipv6 listen socket on port 1883.
+1711423362: mosquitto version 2.0.18 running
+1711423362: New connection from 192.168.65.1:56207 on port 1883.
+1711423362: New client connected from 192.168.65.1:56207 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711423364: New connection from 192.168.16.3:58351 on port 1883.
+1711423364: New client connected from 192.168.16.3:58351 as auto-6497E718-1D97-5388-02C5-11ED354CA007 (p2, c1, k60).
+1711423500: Client mqtt-explorer-a5b1bd0a disconnected.
+1711423501: New connection from 192.168.65.1:56621 on port 1883.
+1711423501: New client connected from 192.168.65.1:56621 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711423573: Client auto-6497E718-1D97-5388-02C5-11ED354CA007 closed its connection.
+1711423573: mosquitto version 2.0.18 terminating
+1711423573: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711423573: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711423833: mosquitto version 2.0.18 starting
+1711423833: Config loaded from /mosquitto/config/mosquitto.conf.
+1711423833: Opening ipv4 listen socket on port 1883.
+1711423833: Opening ipv6 listen socket on port 1883.
+1711423833: mosquitto version 2.0.18 running
+1711423833: New connection from 192.168.65.1:57096 on port 1883.
+1711423833: New client connected from 192.168.65.1:57096 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711423858: mosquitto version 2.0.18 terminating
+1711423858: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711423858: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711423932: mosquitto version 2.0.18 starting
+1711423932: Config loaded from /mosquitto/config/mosquitto.conf.
+1711423932: Opening ipv4 listen socket on port 1883.
+1711423932: Opening ipv6 listen socket on port 1883.
+1711423932: mosquitto version 2.0.18 running
+1711423932: New connection from 192.168.65.1:43646 on port 1883.
+1711423932: New client connected from 192.168.65.1:43646 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711423935: New connection from 192.168.16.3:32951 on port 1883.
+1711423935: New client connected from 192.168.16.3:32951 as auto-D6070AF9-FC02-D185-6A45-A372016D11D7 (p2, c1, k60).
+1711423966: Client mqtt-explorer-a5b1bd0a disconnected.
+1711423967: New connection from 192.168.65.1:43730 on port 1883.
+1711423967: New client connected from 192.168.65.1:43730 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711424159: Client auto-D6070AF9-FC02-D185-6A45-A372016D11D7 closed its connection.
+1711424160: mosquitto version 2.0.18 terminating
+1711424160: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711424160: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711424378: mosquitto version 2.0.18 starting
+1711424378: Config loaded from /mosquitto/config/mosquitto.conf.
+1711424378: Opening ipv4 listen socket on port 1883.
+1711424378: Opening ipv6 listen socket on port 1883.
+1711424378: mosquitto version 2.0.18 running
+1711424379: New connection from 192.168.65.1:44456 on port 1883.
+1711424379: New client connected from 192.168.65.1:44456 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711424381: New connection from 192.168.16.3:36815 on port 1883.
+1711424381: New client connected from 192.168.16.3:36815 as auto-6CBCF102-4903-9F75-96AD-DA71778DBF42 (p2, c1, k60).
+1711424491: Client auto-6CBCF102-4903-9F75-96AD-DA71778DBF42 closed its connection.
+1711424491: mosquitto version 2.0.18 terminating
+1711424491: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711424491: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711424856: mosquitto version 2.0.18 starting
+1711424856: Config loaded from /mosquitto/config/mosquitto.conf.
+1711424856: Opening ipv4 listen socket on port 1883.
+1711424856: Opening ipv6 listen socket on port 1883.
+1711424856: mosquitto version 2.0.18 running
+1711424856: New connection from 192.168.65.1:45318 on port 1883.
+1711424856: New client connected from 192.168.65.1:45318 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711424858: New connection from 192.168.16.3:38265 on port 1883.
+1711424858: New client connected from 192.168.16.3:38265 as auto-4B65A852-76C7-C0D1-E22E-A809D9769424 (p2, c1, k60).
+1711424893: Client mqtt-explorer-a5b1bd0a disconnected.
+1711424895: New connection from 192.168.65.1:45407 on port 1883.
+1711424895: New client connected from 192.168.65.1:45407 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711425218: Client auto-4B65A852-76C7-C0D1-E22E-A809D9769424 closed its connection.
+1711425218: mosquitto version 2.0.18 terminating
+1711425218: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711425218: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711425224: mosquitto version 2.0.18 starting
+1711425224: Config loaded from /mosquitto/config/mosquitto.conf.
+1711425224: Opening ipv4 listen socket on port 1883.
+1711425224: Opening ipv6 listen socket on port 1883.
+1711425224: mosquitto version 2.0.18 running
+1711425225: New connection from 192.168.65.1:46144 on port 1883.
+1711425225: New client connected from 192.168.65.1:46144 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711425226: New connection from 192.168.16.3:33867 on port 1883.
+1711425226: New client connected from 192.168.16.3:33867 as auto-FF1A6034-2E5B-FD62-DF73-E2CC4791607A (p2, c1, k60).
+1711425230: Client auto-FF1A6034-2E5B-FD62-DF73-E2CC4791607A closed its connection.
+1711425230: mosquitto version 2.0.18 terminating
+1711425230: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711425230: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711425254: mosquitto version 2.0.18 starting
+1711425254: Config loaded from /mosquitto/config/mosquitto.conf.
+1711425254: Opening ipv4 listen socket on port 1883.
+1711425254: Opening ipv6 listen socket on port 1883.
+1711425254: mosquitto version 2.0.18 running
+1711425254: New connection from 192.168.65.1:46657 on port 1883.
+1711425254: New client connected from 192.168.65.1:46657 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711425256: New connection from 192.168.16.3:37517 on port 1883.
+1711425256: New client connected from 192.168.16.3:37517 as auto-24720CCC-4E24-8C5A-6C67-66787FFCBD40 (p2, c1, k60).
+1711425491: Client auto-24720CCC-4E24-8C5A-6C67-66787FFCBD40 closed its connection.
+1711425492: mosquitto version 2.0.18 terminating
+1711425492: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711425492: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711425552: mosquitto version 2.0.18 starting
+1711425552: Config loaded from /mosquitto/config/mosquitto.conf.
+1711425552: Opening ipv4 listen socket on port 1883.
+1711425552: Opening ipv6 listen socket on port 1883.
+1711425552: mosquitto version 2.0.18 running
+1711425553: New connection from 192.168.65.1:47661 on port 1883.
+1711425553: New client connected from 192.168.65.1:47661 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711425554: New connection from 192.168.16.3:50839 on port 1883.
+1711425554: New client connected from 192.168.16.3:50839 as auto-8296428C-56BD-B0DA-B36D-F7834F8E3EFF (p2, c1, k60).
+1711425561: Client mqtt-explorer-a5b1bd0a disconnected.
+1711425562: New connection from 192.168.65.1:47670 on port 1883.
+1711425562: New client connected from 192.168.65.1:47670 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711425762: Client auto-8296428C-56BD-B0DA-B36D-F7834F8E3EFF closed its connection.
+1711425762: mosquitto version 2.0.18 terminating
+1711425762: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711425762: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711425929: mosquitto version 2.0.18 starting
+1711425929: Config loaded from /mosquitto/config/mosquitto.conf.
+1711425929: Opening ipv4 listen socket on port 1883.
+1711425929: Opening ipv6 listen socket on port 1883.
+1711425929: mosquitto version 2.0.18 running
+1711425930: New connection from 192.168.65.1:48484 on port 1883.
+1711425930: New client connected from 192.168.65.1:48484 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711425931: New connection from 192.168.16.3:58361 on port 1883.
+1711425931: New client connected from 192.168.16.3:58361 as auto-5B365969-F34C-E431-0BA6-8E6B52D2F299 (p2, c1, k60).
+1711425940: Client auto-5B365969-F34C-E431-0BA6-8E6B52D2F299 closed its connection.
+1711425940: mosquitto version 2.0.18 terminating
+1711425940: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711425940: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711425981: mosquitto version 2.0.18 starting
+1711425981: Config loaded from /mosquitto/config/mosquitto.conf.
+1711425981: Opening ipv4 listen socket on port 1883.
+1711425981: Opening ipv6 listen socket on port 1883.
+1711425981: mosquitto version 2.0.18 running
+1711425982: New connection from 192.168.65.1:49031 on port 1883.
+1711425982: New client connected from 192.168.65.1:49031 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711425984: New connection from 192.168.16.3:59219 on port 1883.
+1711425984: New client connected from 192.168.16.3:59219 as auto-61EC2E11-8956-5AAA-25AD-7AE5C41BD0A8 (p2, c1, k60).
+1711425993: Client mqtt-explorer-a5b1bd0a disconnected.
+1711425994: New connection from 192.168.65.1:49165 on port 1883.
+1711425994: New client connected from 192.168.65.1:49165 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711426087: Client auto-61EC2E11-8956-5AAA-25AD-7AE5C41BD0A8 closed its connection.
+1711426087: mosquitto version 2.0.18 terminating
+1711426087: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711426087: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711426105: mosquitto version 2.0.18 starting
+1711426105: Config loaded from /mosquitto/config/mosquitto.conf.
+1711426105: Opening ipv4 listen socket on port 1883.
+1711426105: Opening ipv6 listen socket on port 1883.
+1711426105: mosquitto version 2.0.18 running
+1711426105: New connection from 192.168.65.1:49708 on port 1883.
+1711426105: New client connected from 192.168.65.1:49708 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711426226: mosquitto version 2.0.18 terminating
+1711426226: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711426226: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711426243: mosquitto version 2.0.18 starting
+1711426243: Config loaded from /mosquitto/config/mosquitto.conf.
+1711426243: Opening ipv4 listen socket on port 1883.
+1711426243: Opening ipv6 listen socket on port 1883.
+1711426243: mosquitto version 2.0.18 running
+1711426243: New connection from 192.168.65.1:50415 on port 1883.
+1711426243: New client connected from 192.168.65.1:50415 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711426246: New connection from 192.168.16.3:49967 on port 1883.
+1711426246: New client connected from 192.168.16.3:49967 as auto-C1A9EAB8-36FA-9585-9A09-792068D3786A (p2, c1, k60).
+1711426276: mosquitto version 2.0.18 terminating
+1711426276: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711426276: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711426381: mosquitto version 2.0.18 starting
+1711426381: Config loaded from /mosquitto/config/mosquitto.conf.
+1711426381: Opening ipv4 listen socket on port 1883.
+1711426381: Opening ipv6 listen socket on port 1883.
+1711426381: mosquitto version 2.0.18 running
+1711426382: New connection from 192.168.65.1:51300 on port 1883.
+1711426382: New client connected from 192.168.65.1:51300 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711426384: New connection from 192.168.16.3:60895 on port 1883.
+1711426384: New client connected from 192.168.16.3:60895 as auto-1DD55F0D-1E40-3A18-187C-332F3CDCD02B (p2, c1, k60).
+1711426400: Client auto-1DD55F0D-1E40-3A18-187C-332F3CDCD02B closed its connection.
+1711426400: mosquitto version 2.0.18 terminating
+1711426400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711426400: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711426534: mosquitto version 2.0.18 starting
+1711426534: Config loaded from /mosquitto/config/mosquitto.conf.
+1711426534: Opening ipv4 listen socket on port 1883.
+1711426534: Opening ipv6 listen socket on port 1883.
+1711426534: mosquitto version 2.0.18 running
+1711426534: New connection from 192.168.65.1:51896 on port 1883.
+1711426534: New client connected from 192.168.65.1:51896 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711426537: New connection from 192.168.16.3:48587 on port 1883.
+1711426537: New client connected from 192.168.16.3:48587 as auto-F59AF911-E13E-BD42-7D1E-ABBD60F70FF8 (p2, c1, k60).
+1711426557: Client auto-F59AF911-E13E-BD42-7D1E-ABBD60F70FF8 closed its connection.
+1711426557: mosquitto version 2.0.18 terminating
+1711426557: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711426557: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711426757: mosquitto version 2.0.18 starting
+1711426757: Config loaded from /mosquitto/config/mosquitto.conf.
+1711426757: Opening ipv4 listen socket on port 1883.
+1711426757: Opening ipv6 listen socket on port 1883.
+1711426757: mosquitto version 2.0.18 running
+1711426758: New connection from 192.168.65.1:52517 on port 1883.
+1711426758: New client connected from 192.168.65.1:52517 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711426760: New connection from 192.168.16.3:42531 on port 1883.
+1711426760: New client connected from 192.168.16.3:42531 as auto-2CA362B5-7664-5D90-EFA3-F43A43367734 (p2, c1, k60).
+1711426779: Client mqtt-explorer-a5b1bd0a disconnected.
+1711426780: New connection from 192.168.65.1:52678 on port 1883.
+1711426780: New client connected from 192.168.65.1:52678 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711427041: Client auto-2CA362B5-7664-5D90-EFA3-F43A43367734 closed its connection.
+1711427042: mosquitto version 2.0.18 terminating
+1711427042: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711427042: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711427072: mosquitto version 2.0.18 starting
+1711427072: Config loaded from /mosquitto/config/mosquitto.conf.
+1711427072: Opening ipv4 listen socket on port 1883.
+1711427072: Opening ipv6 listen socket on port 1883.
+1711427072: mosquitto version 2.0.18 running
+1711427072: New connection from 192.168.65.1:53576 on port 1883.
+1711427072: New client connected from 192.168.65.1:53576 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711427074: New connection from 192.168.16.3:60927 on port 1883.
+1711427074: New client connected from 192.168.16.3:60927 as auto-9C56655C-71F1-64CF-30F1-C9D3077EE77D (p2, c1, k60).
+1711427573: Client auto-9C56655C-71F1-64CF-30F1-C9D3077EE77D closed its connection.
+1711427574: mosquitto version 2.0.18 terminating
+1711427574: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711427574: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711427587: mosquitto version 2.0.18 starting
+1711427587: Config loaded from /mosquitto/config/mosquitto.conf.
+1711427587: Opening ipv4 listen socket on port 1883.
+1711427587: Opening ipv6 listen socket on port 1883.
+1711427587: mosquitto version 2.0.18 running
+1711427587: New connection from 192.168.65.1:55543 on port 1883.
+1711427587: New client connected from 192.168.65.1:55543 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711427589: New connection from 192.168.16.3:48053 on port 1883.
+1711427589: New client connected from 192.168.16.3:48053 as auto-D027AE98-AF7C-AD1E-2841-8D35C9416AC4 (p2, c1, k60).
+1711427700: Client auto-D027AE98-AF7C-AD1E-2841-8D35C9416AC4 closed its connection.
+1711427700: mosquitto version 2.0.18 terminating
+1711427700: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711427700: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711427749: mosquitto version 2.0.18 starting
+1711427749: Config loaded from /mosquitto/config/mosquitto.conf.
+1711427749: Opening ipv4 listen socket on port 1883.
+1711427749: Opening ipv6 listen socket on port 1883.
+1711427749: mosquitto version 2.0.18 running
+1711427749: New connection from 192.168.65.1:56623 on port 1883.
+1711427749: New client connected from 192.168.65.1:56623 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711427763: mosquitto version 2.0.18 terminating
+1711427763: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711427763: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711429788: mosquitto version 2.0.18 starting
+1711429788: Config loaded from /mosquitto/config/mosquitto.conf.
+1711429788: Opening ipv4 listen socket on port 1883.
+1711429788: Opening ipv6 listen socket on port 1883.
+1711429788: mosquitto version 2.0.18 running
+1711429789: New connection from 192.168.65.1:22747 on port 1883.
+1711429789: New client connected from 192.168.65.1:22747 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711429807: mosquitto version 2.0.18 terminating
+1711429807: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711429807: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711430057: mosquitto version 2.0.18 starting
+1711430057: Config loaded from /mosquitto/config/mosquitto.conf.
+1711430057: Opening ipv4 listen socket on port 1883.
+1711430057: Opening ipv6 listen socket on port 1883.
+1711430057: mosquitto version 2.0.18 running
+1711430058: New connection from 192.168.65.1:23416 on port 1883.
+1711430058: New client connected from 192.168.65.1:23416 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711430059: New connection from 172.27.0.3:40831 on port 1883.
+1711430059: New client connected from 172.27.0.3:40831 as auto-3F74FF3A-593F-4A62-C294-DFCB052CC15A (p2, c1, k60).
+1711430173: Client mqtt-explorer-a5b1bd0a disconnected.
+1711430175: New connection from 192.168.65.1:23674 on port 1883.
+1711430175: New client connected from 192.168.65.1:23674 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711430236: Client auto-3F74FF3A-593F-4A62-C294-DFCB052CC15A closed its connection.
+1711430236: mosquitto version 2.0.18 terminating
+1711430236: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711430236: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711430284: mosquitto version 2.0.18 starting
+1711430284: Config loaded from /mosquitto/config/mosquitto.conf.
+1711430284: Opening ipv4 listen socket on port 1883.
+1711430284: Opening ipv6 listen socket on port 1883.
+1711430284: mosquitto version 2.0.18 running
+1711430284: New connection from 192.168.65.1:24183 on port 1883.
+1711430284: New client connected from 192.168.65.1:24183 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711430286: New connection from 172.27.0.3:36059 on port 1883.
+1711430286: New client connected from 172.27.0.3:36059 as auto-FB077DB3-02C9-9BE7-A90B-472FBB77187C (p2, c1, k60).
+1711430346: Client mqtt-explorer-a5b1bd0a disconnected.
+1711430347: New connection from 192.168.65.1:24460 on port 1883.
+1711430347: New client connected from 192.168.65.1:24460 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711430797: Client auto-FB077DB3-02C9-9BE7-A90B-472FBB77187C closed its connection.
+1711430797: mosquitto version 2.0.18 terminating
+1711430797: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711430797: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711430833: mosquitto version 2.0.18 starting
+1711430833: Config loaded from /mosquitto/config/mosquitto.conf.
+1711430833: Opening ipv4 listen socket on port 1883.
+1711430833: Opening ipv6 listen socket on port 1883.
+1711430833: mosquitto version 2.0.18 running
+1711430834: New connection from 192.168.65.1:25920 on port 1883.
+1711430834: New client connected from 192.168.65.1:25920 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711430917: mosquitto version 2.0.18 terminating
+1711430917: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711430917: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711431055: mosquitto version 2.0.18 starting
+1711431055: Config loaded from /mosquitto/config/mosquitto.conf.
+1711431055: Opening ipv4 listen socket on port 1883.
+1711431055: Opening ipv6 listen socket on port 1883.
+1711431055: mosquitto version 2.0.18 running
+1711431056: New connection from 192.168.65.1:39587 on port 1883.
+1711431056: New client connected from 192.168.65.1:39587 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711431057: New connection from 172.27.0.3:57205 on port 1883.
+1711431057: New client connected from 172.27.0.3:57205 as auto-7D149C63-3AE5-D8DD-E2F9-65D052C40764 (p2, c1, k60).
+1711431123: Client auto-7D149C63-3AE5-D8DD-E2F9-65D052C40764 closed its connection.
+1711431123: mosquitto version 2.0.18 terminating
+1711431123: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711431123: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711431280: mosquitto version 2.0.18 starting
+1711431280: Config loaded from /mosquitto/config/mosquitto.conf.
+1711431280: Opening ipv4 listen socket on port 1883.
+1711431280: Opening ipv6 listen socket on port 1883.
+1711431280: mosquitto version 2.0.18 running
+1711431280: New connection from 192.168.65.1:40131 on port 1883.
+1711431280: New client connected from 192.168.65.1:40131 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711431283: New connection from 172.27.0.3:37125 on port 1883.
+1711431283: New client connected from 172.27.0.3:37125 as auto-ECF9770C-0EB3-E12A-1C03-8FB22C99974D (p2, c1, k60).
+1711431331: Client mqtt-explorer-a5b1bd0a disconnected.
+1711431332: New connection from 192.168.65.1:40388 on port 1883.
+1711431332: New client connected from 192.168.65.1:40388 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711431659: Client auto-ECF9770C-0EB3-E12A-1C03-8FB22C99974D closed its connection.
+1711431660: mosquitto version 2.0.18 terminating
+1711431660: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711431660: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711431675: mosquitto version 2.0.18 starting
+1711431675: Config loaded from /mosquitto/config/mosquitto.conf.
+1711431675: Opening ipv4 listen socket on port 1883.
+1711431675: Opening ipv6 listen socket on port 1883.
+1711431675: mosquitto version 2.0.18 running
+1711431676: New connection from 192.168.65.1:41472 on port 1883.
+1711431676: New client connected from 192.168.65.1:41472 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711431678: New connection from 172.27.0.3:33277 on port 1883.
+1711431678: New client connected from 172.27.0.3:33277 as auto-63053EC1-FE42-45B1-7169-B63180ACFFFE (p2, c1, k60).
+1711431836: Client auto-63053EC1-FE42-45B1-7169-B63180ACFFFE closed its connection.
+1711431837: mosquitto version 2.0.18 terminating
+1711431837: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711431837: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711431938: mosquitto version 2.0.18 starting
+1711431938: Config loaded from /mosquitto/config/mosquitto.conf.
+1711431938: Opening ipv4 listen socket on port 1883.
+1711431938: Opening ipv6 listen socket on port 1883.
+1711431938: mosquitto version 2.0.18 running
+1711431939: New connection from 192.168.65.1:42375 on port 1883.
+1711431939: New client connected from 192.168.65.1:42375 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711431941: New connection from 172.27.0.3:55721 on port 1883.
+1711431941: New client connected from 172.27.0.3:55721 as auto-BE33C48B-3BEF-E472-917F-CCFF53D83816 (p2, c1, k60).
+1711431982: Client mqtt-explorer-a5b1bd0a disconnected.
+1711431986: New connection from 192.168.65.1:42615 on port 1883.
+1711431986: New client connected from 192.168.65.1:42615 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711432304: Client auto-BE33C48B-3BEF-E472-917F-CCFF53D83816 closed its connection.
+1711432305: mosquitto version 2.0.18 terminating
+1711432305: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711432305: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711432319: mosquitto version 2.0.18 starting
+1711432319: Config loaded from /mosquitto/config/mosquitto.conf.
+1711432319: Opening ipv4 listen socket on port 1883.
+1711432319: Opening ipv6 listen socket on port 1883.
+1711432319: mosquitto version 2.0.18 running
+1711432320: New connection from 192.168.65.1:43819 on port 1883.
+1711432320: New client connected from 192.168.65.1:43819 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711432321: New connection from 172.27.0.3:42975 on port 1883.
+1711432321: New client connected from 172.27.0.3:42975 as auto-DFCE84B7-07A8-225E-5DC3-826AA3E8CCEE (p2, c1, k60).
+1711432392: Client mqtt-explorer-a5b1bd0a disconnected.
+1711432396: New connection from 192.168.65.1:43985 on port 1883.
+1711432396: New client connected from 192.168.65.1:43985 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711432822: Client auto-DFCE84B7-07A8-225E-5DC3-826AA3E8CCEE closed its connection.
+1711432822: mosquitto version 2.0.18 terminating
+1711432822: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711432822: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711432837: mosquitto version 2.0.18 starting
+1711432837: Config loaded from /mosquitto/config/mosquitto.conf.
+1711432837: Opening ipv4 listen socket on port 1883.
+1711432837: Opening ipv6 listen socket on port 1883.
+1711432837: mosquitto version 2.0.18 running
+1711432837: New connection from 192.168.65.1:45282 on port 1883.
+1711432837: New client connected from 192.168.65.1:45282 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711432839: New connection from 172.27.0.3:49333 on port 1883.
+1711432839: New client connected from 172.27.0.3:49333 as auto-755A2FDF-D4C7-0E19-2DA5-DB7F43312887 (p2, c1, k60).
+1711432906: Client mqtt-explorer-a5b1bd0a disconnected.
+1711432909: New connection from 192.168.65.1:45577 on port 1883.
+1711432909: New client connected from 192.168.65.1:45577 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711432968: Client auto-755A2FDF-D4C7-0E19-2DA5-DB7F43312887 closed its connection.
+1711432968: mosquitto version 2.0.18 terminating
+1711432968: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711432968: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711433410: mosquitto version 2.0.18 starting
+1711433410: Config loaded from /mosquitto/config/mosquitto.conf.
+1711433410: Opening ipv4 listen socket on port 1883.
+1711433410: Opening ipv6 listen socket on port 1883.
+1711433410: mosquitto version 2.0.18 running
+1711433410: New connection from 192.168.65.1:46116 on port 1883.
+1711433410: New client connected from 192.168.65.1:46116 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711433412: New connection from 172.27.0.3:37563 on port 1883.
+1711433412: New client connected from 172.27.0.3:37563 as auto-1E3290C0-A5E0-F9A5-81D7-D1BB487D1BB8 (p2, c1, k60).
+1711433913: Client auto-1E3290C0-A5E0-F9A5-81D7-D1BB487D1BB8 closed its connection.
+1711433914: mosquitto version 2.0.18 terminating
+1711433914: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711433914: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711433929: mosquitto version 2.0.18 starting
+1711433929: Config loaded from /mosquitto/config/mosquitto.conf.
+1711433929: Opening ipv4 listen socket on port 1883.
+1711433929: Opening ipv6 listen socket on port 1883.
+1711433929: mosquitto version 2.0.18 running
+1711433930: New connection from 192.168.65.1:47695 on port 1883.
+1711433930: New client connected from 192.168.65.1:47695 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711433932: New connection from 172.27.0.3:52933 on port 1883.
+1711433932: New client connected from 172.27.0.3:52933 as auto-E64CB2C5-10F7-1174-9459-371C0EE59F9B (p2, c1, k60).
+1711433947: Client mqtt-explorer-a5b1bd0a disconnected.
+1711433951: New connection from 192.168.65.1:47890 on port 1883.
+1711433951: New client connected from 192.168.65.1:47890 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711434140: Client auto-E64CB2C5-10F7-1174-9459-371C0EE59F9B closed its connection.
+1711434140: mosquitto version 2.0.18 terminating
+1711434140: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711434140: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711434154: mosquitto version 2.0.18 starting
+1711434154: Config loaded from /mosquitto/config/mosquitto.conf.
+1711434154: Opening ipv4 listen socket on port 1883.
+1711434154: Opening ipv6 listen socket on port 1883.
+1711434154: mosquitto version 2.0.18 running
+1711434155: New connection from 192.168.65.1:48682 on port 1883.
+1711434155: New client connected from 192.168.65.1:48682 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711434156: New connection from 172.27.0.3:45745 on port 1883.
+1711434156: New client connected from 172.27.0.3:45745 as auto-10C0E711-1A76-F653-130F-0A856CCFE65C (p2, c1, k60).
+1711434457: Client auto-10C0E711-1A76-F653-130F-0A856CCFE65C closed its connection.
+1711434457: mosquitto version 2.0.18 terminating
+1711434457: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711434457: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711434694: mosquitto version 2.0.18 starting
+1711434694: Config loaded from /mosquitto/config/mosquitto.conf.
+1711434694: Opening ipv4 listen socket on port 1883.
+1711434694: Opening ipv6 listen socket on port 1883.
+1711434694: mosquitto version 2.0.18 running
+1711434694: New connection from 192.168.65.1:50136 on port 1883.
+1711434694: New client connected from 192.168.65.1:50136 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711434696: New connection from 172.27.0.3:50825 on port 1883.
+1711434696: New client connected from 172.27.0.3:50825 as auto-7134B69F-8FFE-1D98-F511-A9986F9FC9B2 (p2, c1, k60).
+1711434718: Client mqtt-explorer-a5b1bd0a disconnected.
+1711434719: New connection from 192.168.65.1:50199 on port 1883.
+1711434719: New client connected from 192.168.65.1:50199 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711435306: Client auto-7134B69F-8FFE-1D98-F511-A9986F9FC9B2 closed its connection.
+1711435306: mosquitto version 2.0.18 terminating
+1711435306: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711435306: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711435319: mosquitto version 2.0.18 starting
+1711435319: Config loaded from /mosquitto/config/mosquitto.conf.
+1711435319: Opening ipv4 listen socket on port 1883.
+1711435319: Opening ipv6 listen socket on port 1883.
+1711435319: mosquitto version 2.0.18 running
+1711435320: New connection from 192.168.65.1:51978 on port 1883.
+1711435320: New client connected from 192.168.65.1:51978 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711435321: New connection from 172.27.0.3:59095 on port 1883.
+1711435321: New client connected from 172.27.0.3:59095 as auto-152BF303-0603-03C6-8903-6338005D9E98 (p2, c1, k60).
+1711435335: Client mqtt-explorer-a5b1bd0a disconnected.
+1711435336: New connection from 192.168.65.1:52018 on port 1883.
+1711435336: New client connected from 192.168.65.1:52018 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711435889: Client auto-152BF303-0603-03C6-8903-6338005D9E98 closed its connection.
+1711435889: mosquitto version 2.0.18 terminating
+1711435889: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711435889: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711436028: mosquitto version 2.0.18 starting
+1711436028: Config loaded from /mosquitto/config/mosquitto.conf.
+1711436028: Opening ipv4 listen socket on port 1883.
+1711436028: Opening ipv6 listen socket on port 1883.
+1711436028: mosquitto version 2.0.18 running
+1711436028: New connection from 192.168.65.1:53913 on port 1883.
+1711436028: New client connected from 192.168.65.1:53913 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711436031: New connection from 172.27.0.3:45271 on port 1883.
+1711436031: New client connected from 172.27.0.3:45271 as auto-2576CB84-F733-AB05-EA06-EA5824F7E24B (p2, c1, k60).
+1711436054: Client auto-2576CB84-F733-AB05-EA06-EA5824F7E24B closed its connection.
+1711436055: mosquitto version 2.0.18 terminating
+1711436055: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711436055: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711436123: mosquitto version 2.0.18 starting
+1711436123: Config loaded from /mosquitto/config/mosquitto.conf.
+1711436123: Opening ipv4 listen socket on port 1883.
+1711436123: Opening ipv6 listen socket on port 1883.
+1711436123: mosquitto version 2.0.18 running
+1711436123: New connection from 192.168.65.1:54630 on port 1883.
+1711436123: New client connected from 192.168.65.1:54630 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711436125: New connection from 172.27.0.3:58023 on port 1883.
+1711436125: New client connected from 172.27.0.3:58023 as auto-18E9804C-FCBE-283C-AB45-CCD3003B51E8 (p2, c1, k60).
+1711436561: Client auto-18E9804C-FCBE-283C-AB45-CCD3003B51E8 closed its connection.
+1711436561: mosquitto version 2.0.18 terminating
+1711436561: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711436561: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711436576: mosquitto version 2.0.18 starting
+1711436576: Config loaded from /mosquitto/config/mosquitto.conf.
+1711436576: Opening ipv4 listen socket on port 1883.
+1711436576: Opening ipv6 listen socket on port 1883.
+1711436576: mosquitto version 2.0.18 running
+1711436577: New connection from 192.168.65.1:56144 on port 1883.
+1711436577: New client connected from 192.168.65.1:56144 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711436579: New connection from 172.27.0.3:57847 on port 1883.
+1711436579: New client connected from 172.27.0.3:57847 as auto-7BADE0EE-57A2-A4B4-75ED-05DA715B5E08 (p2, c1, k60).
+1711436629: Client auto-7BADE0EE-57A2-A4B4-75ED-05DA715B5E08 closed its connection.
+1711436630: mosquitto version 2.0.18 terminating
+1711436630: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711436630: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711436705: mosquitto version 2.0.18 starting
+1711436705: Config loaded from /mosquitto/config/mosquitto.conf.
+1711436705: Opening ipv4 listen socket on port 1883.
+1711436705: Opening ipv6 listen socket on port 1883.
+1711436705: mosquitto version 2.0.18 running
+1711436705: New connection from 192.168.65.1:56981 on port 1883.
+1711436705: New client connected from 192.168.65.1:56981 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711436707: New connection from 172.27.0.3:50917 on port 1883.
+1711436707: New client connected from 172.27.0.3:50917 as auto-B73F0CE6-F380-F311-C3D7-57B59C7243AF (p2, c1, k60).
+1711436808: Client auto-B73F0CE6-F380-F311-C3D7-57B59C7243AF closed its connection.
+1711436808: mosquitto version 2.0.18 terminating
+1711436808: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711436808: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711436829: mosquitto version 2.0.18 starting
+1711436829: Config loaded from /mosquitto/config/mosquitto.conf.
+1711436829: Opening ipv4 listen socket on port 1883.
+1711436829: Opening ipv6 listen socket on port 1883.
+1711436829: mosquitto version 2.0.18 running
+1711436830: New connection from 192.168.65.1:58153 on port 1883.
+1711436830: New client connected from 192.168.65.1:58153 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711436832: New connection from 172.20.0.3:59547 on port 1883.
+1711436832: New client connected from 172.20.0.3:59547 as auto-4C88852E-C98E-8624-38D2-3771A636ED9E (p2, c1, k60).
+1711437253: Client auto-4C88852E-C98E-8624-38D2-3771A636ED9E closed its connection.
+1711437254: mosquitto version 2.0.18 terminating
+1711437254: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711437254: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711437271: mosquitto version 2.0.18 starting
+1711437271: Config loaded from /mosquitto/config/mosquitto.conf.
+1711437271: Opening ipv4 listen socket on port 1883.
+1711437271: Opening ipv6 listen socket on port 1883.
+1711437271: mosquitto version 2.0.18 running
+1711437271: New connection from 192.168.65.1:59908 on port 1883.
+1711437271: New client connected from 192.168.65.1:59908 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711437273: New connection from 172.20.0.3:54709 on port 1883.
+1711437273: New client connected from 172.20.0.3:54709 as auto-CB1E083F-EEDE-DB22-010A-8C430ABA0F0C (p2, c1, k60).
+1711437458: Client auto-CB1E083F-EEDE-DB22-010A-8C430ABA0F0C closed its connection.
+1711437459: New connection from 172.20.0.3:36611 on port 1883.
+1711437459: New client connected from 172.20.0.3:36611 as auto-E6C59213-934B-E8C9-C4F5-A207FE22D9D1 (p2, c1, k60).
+1711437596: Client auto-E6C59213-934B-E8C9-C4F5-A207FE22D9D1 closed its connection.
+1711437596: mosquitto version 2.0.18 terminating
+1711437596: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711437596: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711437886: mosquitto version 2.0.18 starting
+1711437886: Config loaded from /mosquitto/config/mosquitto.conf.
+1711437886: Opening ipv4 listen socket on port 1883.
+1711437886: Opening ipv6 listen socket on port 1883.
+1711437886: mosquitto version 2.0.18 running
+1711437887: New connection from 192.168.65.1:61199 on port 1883.
+1711437887: New client connected from 192.168.65.1:61199 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711437900: mosquitto version 2.0.18 terminating
+1711437900: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711437900: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711437973: mosquitto version 2.0.18 starting
+1711437973: Config loaded from /mosquitto/config/mosquitto.conf.
+1711437973: Opening ipv4 listen socket on port 1883.
+1711437973: Opening ipv6 listen socket on port 1883.
+1711437973: mosquitto version 2.0.18 running
+1711437973: New connection from 192.168.65.1:61686 on port 1883.
+1711437973: New client connected from 192.168.65.1:61686 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711437990: mosquitto version 2.0.18 terminating
+1711437990: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711437990: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711438160: mosquitto version 2.0.18 starting
+1711438160: Config loaded from /mosquitto/config/mosquitto.conf.
+1711438160: Opening ipv4 listen socket on port 1883.
+1711438160: Opening ipv6 listen socket on port 1883.
+1711438160: mosquitto version 2.0.18 running
+1711438160: New connection from 192.168.65.1:62336 on port 1883.
+1711438160: New client connected from 192.168.65.1:62336 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711438169: mosquitto version 2.0.18 terminating
+1711438169: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711438169: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711438263: mosquitto version 2.0.18 starting
+1711438263: Config loaded from /mosquitto/config/mosquitto.conf.
+1711438263: Opening ipv4 listen socket on port 1883.
+1711438263: Opening ipv6 listen socket on port 1883.
+1711438263: mosquitto version 2.0.18 running
+1711438264: New connection from 192.168.65.1:36711 on port 1883.
+1711438264: New client connected from 192.168.65.1:36711 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711438398: mosquitto version 2.0.18 terminating
+1711438398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711438398: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711438458: mosquitto version 2.0.18 starting
+1711438458: Config loaded from /mosquitto/config/mosquitto.conf.
+1711438458: Opening ipv4 listen socket on port 1883.
+1711438458: Opening ipv6 listen socket on port 1883.
+1711438458: mosquitto version 2.0.18 running
+1711438458: New connection from 192.168.65.1:37320 on port 1883.
+1711438458: New client connected from 192.168.65.1:37320 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711438460: New connection from 172.20.0.3:35011 on port 1883.
+1711438460: New client connected from 172.20.0.3:35011 as auto-B64BA155-52FC-F9DE-C608-3F033AF1E433 (p2, c1, k60).
+1711438649: Client auto-B64BA155-52FC-F9DE-C608-3F033AF1E433 closed its connection.
+1711438649: mosquitto version 2.0.18 terminating
+1711438649: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711438649: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711438664: mosquitto version 2.0.18 starting
+1711438664: Config loaded from /mosquitto/config/mosquitto.conf.
+1711438664: Opening ipv4 listen socket on port 1883.
+1711438664: Opening ipv6 listen socket on port 1883.
+1711438664: mosquitto version 2.0.18 running
+1711438665: New connection from 192.168.65.1:38474 on port 1883.
+1711438665: New client connected from 192.168.65.1:38474 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711438832: mosquitto version 2.0.18 terminating
+1711438832: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711438832: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711441270: mosquitto version 2.0.18 starting
+1711441270: Config loaded from /mosquitto/config/mosquitto.conf.
+1711441270: Opening ipv4 listen socket on port 1883.
+1711441270: Opening ipv6 listen socket on port 1883.
+1711441270: mosquitto version 2.0.18 running
+1711441271: New connection from 192.168.65.1:31280 on port 1883.
+1711441271: New client connected from 192.168.65.1:31280 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711441273: New connection from 172.18.0.3:55387 on port 1883.
+1711441273: New client connected from 172.18.0.3:55387 as auto-EB38C939-E01E-898C-C1F8-33DEDD27FB46 (p2, c1, k60).
+1711441376: Client auto-EB38C939-E01E-898C-C1F8-33DEDD27FB46 closed its connection.
+1711441376: mosquitto version 2.0.18 terminating
+1711441376: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711441376: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711443583: mosquitto version 2.0.18 starting
+1711443583: Config loaded from /mosquitto/config/mosquitto.conf.
+1711443583: Opening ipv4 listen socket on port 1883.
+1711443583: Opening ipv6 listen socket on port 1883.
+1711443583: mosquitto version 2.0.18 running
+1711443583: New connection from 192.168.65.1:41160 on port 1883.
+1711443583: New client connected from 192.168.65.1:41160 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711443588: New connection from 192.168.112.3:60581 on port 1883.
+1711443588: New client connected from 192.168.112.3:60581 as auto-3DF9561B-61BA-D299-39A7-1D68D09D7F69 (p2, c1, k60).
+1711443625: Client auto-3DF9561B-61BA-D299-39A7-1D68D09D7F69 closed its connection.
+1711443626: mosquitto version 2.0.18 terminating
+1711443626: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711443626: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711443887: mosquitto version 2.0.18 starting
+1711443887: Config loaded from /mosquitto/config/mosquitto.conf.
+1711443887: Opening ipv4 listen socket on port 1883.
+1711443887: Opening ipv6 listen socket on port 1883.
+1711443887: mosquitto version 2.0.18 running
+1711443887: New connection from 192.168.65.1:43024 on port 1883.
+1711443887: New client connected from 192.168.65.1:43024 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711443890: New connection from 192.168.160.3:36361 on port 1883.
+1711443890: New client connected from 192.168.160.3:36361 as auto-0EE110CA-AC38-1C96-4A2D-ACAD9B9B0ABC (p2, c1, k60).
+1711444043: Client auto-0EE110CA-AC38-1C96-4A2D-ACAD9B9B0ABC closed its connection.
+1711444044: mosquitto version 2.0.18 terminating
+1711444044: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711444044: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711444081: mosquitto version 2.0.18 starting
+1711444081: Config loaded from /mosquitto/config/mosquitto.conf.
+1711444081: Opening ipv4 listen socket on port 1883.
+1711444081: Opening ipv6 listen socket on port 1883.
+1711444081: mosquitto version 2.0.18 running
+1711444081: New connection from 192.168.65.1:44486 on port 1883.
+1711444081: New client connected from 192.168.65.1:44486 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711444092: mosquitto version 2.0.18 terminating
+1711444092: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711444092: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711444393: mosquitto version 2.0.18 starting
+1711444393: Config loaded from /mosquitto/config/mosquitto.conf.
+1711444393: Opening ipv4 listen socket on port 1883.
+1711444393: Opening ipv6 listen socket on port 1883.
+1711444393: mosquitto version 2.0.18 running
+1711444394: New connection from 192.168.65.1:45608 on port 1883.
+1711444394: New client connected from 192.168.65.1:45608 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711444396: New connection from 172.21.0.3:48957 on port 1883.
+1711444396: New client connected from 172.21.0.3:48957 as auto-CD369C83-934C-5529-44F3-CD63402F172A (p2, c1, k60).
+1711444585: Client mqtt-explorer-a5b1bd0a disconnected.
+1711444587: New connection from 192.168.65.1:46244 on port 1883.
+1711444587: New client connected from 192.168.65.1:46244 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711444791: Client auto-CD369C83-934C-5529-44F3-CD63402F172A closed its connection.
+1711444792: mosquitto version 2.0.18 terminating
+1711444792: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711444792: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711444928: mosquitto version 2.0.18 starting
+1711444928: Config loaded from /mosquitto/config/mosquitto.conf.
+1711444928: Opening ipv4 listen socket on port 1883.
+1711444928: Opening ipv6 listen socket on port 1883.
+1711444928: mosquitto version 2.0.18 running
+1711444928: New connection from 192.168.65.1:47540 on port 1883.
+1711444928: New client connected from 192.168.65.1:47540 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711444931: New connection from 172.25.0.3:53265 on port 1883.
+1711444931: New client connected from 172.25.0.3:53265 as auto-CD42BB13-4656-E58A-2488-B6B74CBFB5E1 (p2, c1, k60).
+1711445107: Client auto-CD42BB13-4656-E58A-2488-B6B74CBFB5E1 closed its connection.
+1711445107: mosquitto version 2.0.18 terminating
+1711445107: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711445107: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711445785: mosquitto version 2.0.18 starting
+1711445785: Config loaded from /mosquitto/config/mosquitto.conf.
+1711445785: Opening ipv4 listen socket on port 1883.
+1711445785: Opening ipv6 listen socket on port 1883.
+1711445785: mosquitto version 2.0.18 running
+1711445786: New connection from 192.168.65.1:49743 on port 1883.
+1711445786: New client connected from 192.168.65.1:49743 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711445788: New connection from 172.29.0.3:33661 on port 1883.
+1711445788: New client connected from 172.29.0.3:33661 as auto-C92A2AEA-7BC0-49EF-CC0A-F7C447CE5DBF (p2, c1, k60).
+1711445825: Client auto-C92A2AEA-7BC0-49EF-CC0A-F7C447CE5DBF closed its connection.
+1711445826: mosquitto version 2.0.18 terminating
+1711445826: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711445826: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711445934: mosquitto version 2.0.18 starting
+1711445934: Config loaded from /mosquitto/config/mosquitto.conf.
+1711445934: Opening ipv4 listen socket on port 1883.
+1711445934: Opening ipv6 listen socket on port 1883.
+1711445934: mosquitto version 2.0.18 running
+1711445934: New connection from 192.168.65.1:51587 on port 1883.
+1711445934: New client connected from 192.168.65.1:51587 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711445937: New connection from 192.168.16.3:40963 on port 1883.
+1711445937: New client connected from 192.168.16.3:40963 as auto-BE2B7F87-301C-9200-C637-D7C10FEF7A0E (p2, c1, k60).
+1711446342: Client auto-BE2B7F87-301C-9200-C637-D7C10FEF7A0E closed its connection.
+1711446342: mosquitto version 2.0.18 terminating
+1711446342: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711446342: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711446611: mosquitto version 2.0.18 starting
+1711446611: Config loaded from /mosquitto/config/mosquitto.conf.
+1711446611: Opening ipv4 listen socket on port 1883.
+1711446611: Opening ipv6 listen socket on port 1883.
+1711446611: mosquitto version 2.0.18 running
+1711446611: New connection from 192.168.65.1:53519 on port 1883.
+1711446611: New client connected from 192.168.65.1:53519 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711446615: New connection from 192.168.80.3:53135 on port 1883.
+1711446615: New client connected from 192.168.80.3:53135 as auto-2723A681-5547-2EE7-9A9C-F128BD839A1A (p2, c1, k60).
+1711446704: Client auto-2723A681-5547-2EE7-9A9C-F128BD839A1A closed its connection.
+1711446704: mosquitto version 2.0.18 terminating
+1711446704: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711446704: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711446727: mosquitto version 2.0.18 starting
+1711446727: Config loaded from /mosquitto/config/mosquitto.conf.
+1711446727: Opening ipv4 listen socket on port 1883.
+1711446727: Opening ipv6 listen socket on port 1883.
+1711446727: mosquitto version 2.0.18 running
+1711446727: New connection from 192.168.65.1:54985 on port 1883.
+1711446727: New client connected from 192.168.65.1:54985 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711446730: New connection from 192.168.112.3:33421 on port 1883.
+1711446730: New client connected from 192.168.112.3:33421 as auto-5D010AF8-0B06-E5CD-9A14-7CDA8E15BA87 (p2, c1, k60).
+1711446848: Client mqtt-explorer-a5b1bd0a disconnected.
+1711446850: New connection from 192.168.65.1:55438 on port 1883.
+1711446850: New client connected from 192.168.65.1:55438 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711470943: Client auto-5D010AF8-0B06-E5CD-9A14-7CDA8E15BA87 closed its connection.
+1711470943: mosquitto version 2.0.18 terminating
+1711470943: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711470943: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711471063: mosquitto version 2.0.18 starting
+1711471063: Config loaded from /mosquitto/config/mosquitto.conf.
+1711471063: Opening ipv4 listen socket on port 1883.
+1711471063: Opening ipv6 listen socket on port 1883.
+1711471063: mosquitto version 2.0.18 running
+1711471064: New connection from 192.168.65.1:53566 on port 1883.
+1711471064: New client connected from 192.168.65.1:53566 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711471066: New connection from 172.18.0.3:41557 on port 1883.
+1711471066: New client connected from 172.18.0.3:41557 as auto-A20C054F-DB00-6430-91E4-3E9A1E5B54CC (p2, c1, k60).
+1711471127: Client mqtt-explorer-a5b1bd0a disconnected.
+1711471129: New connection from 192.168.65.1:53901 on port 1883.
+1711471129: New client connected from 192.168.65.1:53901 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711472864: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711472864: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711473085: Client auto-A20C054F-DB00-6430-91E4-3E9A1E5B54CC closed its connection.
+1711473085: mosquitto version 2.0.18 terminating
+1711473085: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711473085: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711473102: mosquitto version 2.0.18 starting
+1711473102: Config loaded from /mosquitto/config/mosquitto.conf.
+1711473102: Opening ipv4 listen socket on port 1883.
+1711473102: Opening ipv6 listen socket on port 1883.
+1711473102: mosquitto version 2.0.18 running
+1711473102: New connection from 192.168.65.1:58634 on port 1883.
+1711473102: New client connected from 192.168.65.1:58634 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711473105: New connection from 172.18.0.3:44467 on port 1883.
+1711473105: New client connected from 172.18.0.3:44467 as auto-7AA24CA9-1818-5958-8243-C29636D1D38D (p2, c1, k60).
+1711473108: Client mqtt-explorer-a5b1bd0a disconnected.
+1711473114: New connection from 192.168.65.1:58672 on port 1883.
+1711473114: New client connected from 192.168.65.1:58672 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711473141: Client auto-7AA24CA9-1818-5958-8243-C29636D1D38D closed its connect1711473453: mosquitto version 2.0.18 starting
+1711473453: Config loaded from /mosquitto/config/mosquitto.conf.
+1711473453: Opening ipv4 listen socket on port 1883.
+1711473453: Opening ipv6 listen socket on port 1883.
+1711473453: mosquitto version 2.0.18 running
+1711473453: New connection from 192.168.65.1:59224 on port 1883.
+1711473453: New client connected from 192.168.65.1:59224 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711473461: New connection from 172.18.0.3:46433 on port 1883.
+1711473461: New client connected from 172.18.0.3:46433 as auto-EBEDD997-38F6-0395-C69A-5A39B2343609 (p2, c1, k60).
+1711473463: Client mqtt-explorer-a5b1bd0a disconnected.
+1711473464: New connection from 192.168.65.1:59606 on port 1883.
+1711473464: New client connected from 192.168.65.1:59606 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711473514: Client mqtt-explorer-a5b1bd0a disconnected.
+1711473600: Client auto-EBEDD997-38F6-0395-C69A-5A39B2343609 closed its connection.
+1711473601: mosquitto version 2.0.18 terminating
+1711473601: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711473601: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711473852: mosquitto version 2.0.18 starting
+1711473852: Config loaded from /mosquitto/config/mosquitto.conf.
+1711473852: Opening ipv4 listen socket on port 1883.
+1711473852: Opening ipv6 listen socket on port 1883.
+1711473852: mosquitto version 2.0.18 running
+1711473856: New connection from 172.25.0.3:49583 on port 1883.
+1711473856: New client connected from 172.25.0.3:49583 as auto-795137DB-B729-480D-F6F8-A8743B7F5FF3 (p2, c1, k60).
+1711473875: New connection from 192.168.65.1:61831 on port 1883.
+1711473875: New client connected from 192.168.65.1:61831 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711473935: Client mqtt-explorer-a5b1bd0a disconnected.
+1711473940: Client auto-795137DB-B729-480D-F6F8-A8743B7F5FF3 closed its connection.
+1711473940: mosquitto version 2.0.18 terminating
+1711473940: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711473940: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711474004: mosquitto version 2.0.18 starting
+1711474004: Config loaded from /mosquitto/config/mosquitto.conf.
+1711474004: Opening ipv4 listen socket on port 1883.
+1711474004: Opening ipv6 listen socket on port 1883.
+1711474004: mosquitto version 2.0.18 running
+1711474008: New connection from 172.26.0.3:46107 on port 1883.
+1711474008: New client connected from 172.26.0.3:46107 as auto-18005218-0BC8-393D-6525-4951CDA20CBB (p2, c1, k60).
+1711474016: New connection from 192.168.65.1:63298 on port 1883.
+1711474016: New client connected from 192.168.65.1:63298 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711474064: Client auto-18005218-0BC8-393D-6525-4951CDA20CBB closed its connection.
+1711474066: mosquitto version 2.0.18 terminating
+1711474066: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711474066: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711475016: mosquitto version 2.0.18 starting
+1711475016: Config loaded from /mosquitto/config/mosquitto.conf.
+1711475016: Opening ipv4 listen socket on port 1883.
+1711475016: Opening ipv6 listen socket on port 1883.
+1711475016: mosquitto version 2.0.18 running
+1711475016: New connection from 192.168.65.1:64549 on port 1883.
+1711475016: New client connected from 192.168.65.1:64549 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475046: mosquitto version 2.0.18 terminating
+1711475046: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711475046: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711475193: mosquitto version 2.0.18 starting
+1711475193: Config loaded from /mosquitto/config/mosquitto.conf.
+1711475193: Opening ipv4 listen socket on port 1883.
+1711475193: Opening ipv6 listen socket on port 1883.
+1711475193: mosquitto version 2.0.18 running
+1711475193: New connection from 192.168.65.1:64260 on port 1883.
+1711475193: New client connected from 192.168.65.1:64260 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475224: mosquitto version 2.0.18 terminating
+1711475224: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711475224: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711475292: mosquitto version 2.0.18 starting
+1711475292: Config loaded from /mosquitto/config/mosquitto.conf.
+1711475292: Opening ipv4 listen socket on port 1883.
+1711475292: Opening ipv6 listen socket on port 1883.
+1711475292: mosquitto version 2.0.18 running
+1711475292: New connection from 192.168.65.1:16897 on port 1883.
+1711475292: New client connected from 192.168.65.1:16897 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475295: New connection from 172.25.0.3:39779 on port 1883.
+1711475295: New client connected from 172.25.0.3:39779 as auto-DA26F470-CA10-B7EA-690E-259E0FE98AF2 (p2, c1, k60).
+1711475304: Client mqtt-explorer-a5b1bd0a disconnected.
+1711475307: New connection from 192.168.65.1:17117 on port 1883.
+1711475307: New client connected from 192.168.65.1:17117 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475345: Client mqtt-explorer-a5b1bd0a disconnected.
+1711475400: Client auto-DA26F470-CA10-B7EA-690E-259E0FE98AF2 closed its connection.
+1711475400: mosquitto version 2.0.18 terminating
+1711475400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711475400: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711475420: mosquitto version 2.0.18 starting
+1711475420: Config loaded from /mosquitto/config/mosquitto.conf.
+1711475420: Opening ipv4 listen socket on port 1883.
+1711475420: Opening ipv6 listen socket on port 1883.
+1711475420: mosquitto version 2.0.18 running
+1711475424: New connection from 172.29.0.3:34445 on port 1883.
+1711475424: New client connected from 172.29.0.3:34445 as auto-6CA9DCAB-C932-BD06-33BD-AA54631BD3AD (p2, c1, k60).
+1711475440: New connection from 192.168.65.1:18704 on port 1883.
+1711475440: New client connected from 192.168.65.1:18704 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475487: Client auto-6CA9DCAB-C932-BD06-33BD-AA54631BD3AD closed its connection.
+1711475488: mosquitto version 2.0.18 terminating
+1711475488: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711475488: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711475558: mosquitto version 2.0.18 starting
+1711475558: Config loaded from /mosquitto/config/mosquitto.conf.
+1711475558: Opening ipv4 listen socket on port 1883.
+1711475558: Opening ipv6 listen socket on port 1883.
+1711475558: mosquitto version 2.0.18 running
+1711475559: New connection from 192.168.65.1:20143 on port 1883.
+1711475559: New client connected from 192.168.65.1:20143 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475561: New connection from 172.31.0.3:47807 on port 1883.
+1711475561: New client connected from 172.31.0.3:47807 as auto-AA377873-BCE1-4192-054C-A83E896F117E (p2, c1, k60).
+1711475598: Client mqtt-explorer-a5b1bd0a disconnected.
+1711475599: New connection from 192.168.65.1:20245 on port 1883.
+1711475599: New client connected from 192.168.65.1:20245 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475707: Client auto-AA377873-BCE1-4192-054C-A83E896F117E closed its connection.
+1711475708: mosquitto version 2.0.18 terminating
+1711475708: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711475708: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711475740: mosquitto version 2.0.18 starting
+1711475740: Config loaded from /mosquitto/config/mosquitto.conf.
+1711475740: Opening ipv4 listen socket on port 1883.
+1711475740: Opening ipv6 listen socket on port 1883.
+1711475740: mosquitto version 2.0.18 running
+1711475741: New connection from 192.168.65.1:21636 on port 1883.
+1711475741: New client connected from 192.168.65.1:21636 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475744: New connection from 192.168.32.3:34381 on port 1883.
+1711475744: New client connected from 192.168.32.3:34381 as auto-DDC95096-6083-156D-9130-A38081BDC0F4 (p2, c1, k60).
+1711475813: Client auto-DDC95096-6083-156D-9130-A38081BDC0F4 closed its connection.
+1711475814: mosquitto version 2.0.18 terminating
+1711475814: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711475814: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711475942: mosquitto version 2.0.18 starting
+1711475942: Config loaded from /mosquitto/config/mosquitto.conf.
+1711475942: Opening ipv4 listen socket on port 1883.
+1711475942: Opening ipv6 listen socket on port 1883.
+1711475942: mosquitto version 2.0.18 running
+1711475942: New connection from 192.168.65.1:23154 on port 1883.
+1711475942: New client connected from 192.168.65.1:23154 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475947: New connection from 192.168.112.3:49903 on port 1883.
+1711475947: New client connected from 192.168.112.3:49903 as auto-A053411E-1B4B-808E-2FD9-1799AD786D7C (p2, c1, k60).
+1711475977: Client mqtt-explorer-a5b1bd0a disconnected.
+1711475978: New connection from 192.168.65.1:23430 on port 1883.
+1711475978: New client connected from 192.168.65.1:23430 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711475991: Client auto-A053411E-1B4B-808E-2FD9-1799AD786D7C closed its connection.
+1711475991: mosquitto version 2.0.18 terminating
+1711475991: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711475991: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711476045: mosquitto version 2.0.18 starting
+1711476045: Config loaded from /mosquitto/config/mosquitto.conf.
+1711476045: Opening ipv4 listen socket on port 1883.
+1711476045: Opening ipv6 listen socket on port 1883.
+1711476045: mosquitto version 2.0.18 running
+1711476046: New connection from 192.168.65.1:24412 on port 1883.
+1711476046: New client connected from 192.168.65.1:24412 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711476048: New connection from 192.168.112.3:54139 on port 1883.
+1711476048: New client connected from 192.168.112.3:54139 as auto-428EBBB4-EC69-30F8-85AF-3966781477F3 (p2, c1, k60).
+1711476072: Client auto-428EBBB4-EC69-30F8-85AF-3966781477F3 closed its connection.
+1711476073: mosquitto version 2.0.18 terminating
+1711476073: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711476073: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711476425: mosquitto version 2.0.18 starting
+1711476425: Config loaded from /mosquitto/config/mosquitto.conf.
+1711476425: Opening ipv4 listen socket on port 1883.
+1711476425: Opening ipv6 listen socket on port 1883.
+1711476425: mosquitto version 2.0.18 running
+1711476426: New connection from 192.168.65.1:25206 on port 1883.
+1711476426: New client connected from 192.168.65.1:25206 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711476428: New connection from 192.168.112.3:37355 on port 1883.
+1711476428: New client connected from 192.168.112.3:37355 as auto-DCF05E72-8F28-1C27-0B41-62F8C5D70A17 (p2, c1, k60).
+1711476455: Client auto-DCF05E72-8F28-1C27-0B41-62F8C5D70A17 closed its connection.
+1711476455: mosquitto version 2.0.18 terminating
+1711476455: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711476455: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711476472: mosquitto version 2.0.18 starting
+1711476472: Config loaded from /mosquitto/config/mosquitto.conf.
+1711476472: Opening ipv4 listen socket on port 1883.
+1711476472: Opening ipv6 listen socket on port 1883.
+1711476472: mosquitto version 2.0.18 running
+1711476472: New connection from 192.168.65.1:26267 on port 1883.
+1711476472: New client connected from 192.168.65.1:26267 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711476475: New connection from 192.168.192.3:51753 on port 1883.
+1711476475: New client connected from 192.168.192.3:51753 as auto-0355B005-D884-65F6-4FC5-654E198135FC (p2, c1, k60).
+1711476637: Client mqtt-explorer-a5b1bd0a disconnected.
+1711476638: New connection from 192.168.65.1:26815 on port 1883.
+1711476638: New client connected from 192.168.65.1:26815 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711476666: Client auto-0355B005-D884-65F6-4FC5-654E198135FC closed its connection.
+1711476666: mosquitto version 2.0.18 terminating
+1711476666: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711476666: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711476685: mosquitto version 2.0.18 starting
+1711476685: Config loaded from /mosquitto/config/mosquitto.conf.
+1711476685: Opening ipv4 listen socket on port 1883.
+1711476685: Opening ipv6 listen socket on port 1883.
+1711476685: mosquitto version 2.0.18 running
+1711476685: New connection from 192.168.65.1:28075 on port 1883.
+1711476685: New client connected from 192.168.65.1:28075 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711476688: New connection from 192.168.240.3:36075 on port 1883.
+1711476688: New client connected from 192.168.240.3:36075 as auto-90EBB499-F8D7-7347-199C-00903F972BCD (p2, c1, k60).
+1711476717: Client mqtt-explorer-a5b1bd0a disconnected.
+1711476718: New connection from 192.168.65.1:28348 on port 1883.
+1711476718: New client connected from 192.168.65.1:28348 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711476739: Client auto-90EBB499-F8D7-7347-199C-00903F972BCD closed its connection.
+1711476740: mosquitto version 2.0.18 terminating
+1711476740: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711476740: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711476824: mosquitto version 2.0.18 starting
+1711476824: Config loaded from /mosquitto/config/mosquitto.conf.
+1711476824: Opening ipv4 listen socket on port 1883.
+1711476824: Opening ipv6 listen socket on port 1883.
+1711476824: mosquitto version 2.0.18 running
+1711476824: New connection from 192.168.65.1:29583 on port 1883.
+1711476824: New client connected from 192.168.65.1:29583 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711476853: mosquitto version 2.0.18 terminating
+1711476853: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711476853: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711476990: mosquitto version 2.0.18 starting
+1711476990: Config loaded from /mosquitto/config/mosquitto.conf.
+1711476990: Opening ipv4 listen socket on port 1883.
+1711476990: Opening ipv6 listen socket on port 1883.
+1711476990: mosquitto version 2.0.18 running
+1711476990: New connection from 192.168.65.1:53740 on port 1883.
+1711476990: New client connected from 192.168.65.1:53740 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711477012: mosquitto version 2.0.18 terminating
+1711477012: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711477012: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711477061: mosquitto version 2.0.18 starting
+1711477061: Config loaded from /mosquitto/config/mosquitto.conf.
+1711477061: Opening ipv4 listen socket on port 1883.
+1711477061: Opening ipv6 listen socket on port 1883.
+1711477061: mosquitto version 2.0.18 running
+1711477062: New connection from 192.168.65.1:54769 on port 1883.
+1711477062: New client connected from 192.168.65.1:54769 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711477064: New connection from 172.18.0.3:50183 on port 1883.
+1711477064: New client connected from 172.18.0.3:50183 as auto-9B7F27B6-273A-4E41-162B-1A6C390D5651 (p2, c1, k60).
+1711477082: Client mqtt-explorer-a5b1bd0a disconnected.
+1711477083: New connection from 192.168.65.1:54823 on port 1883.
+1711477083: New client connected from 192.168.65.1:54823 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711477112: Client auto-9B7F27B6-273A-4E41-162B-1A6C390D5651 closed its connection.
+1711477112: mosquitto version 2.0.18 terminating
+1711477112: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711477112: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711479590: mosquitto version 2.0.18 starting
+1711479590: Config loaded from /mosquitto/config/mosquitto.conf.
+1711479590: Opening ipv4 listen socket on port 1883.
+1711479590: Opening ipv6 listen socket on port 1883.
+1711479590: mosquitto version 2.0.18 running
+1711479590: New connection from 192.168.65.1:42337 on port 1883.
+1711479590: New client connected from 192.168.65.1:42337 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711479611: mosquitto version 2.0.18 terminating
+1711479611: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711479611: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711479638: mosquitto version 2.0.18 starting
+1711479638: Config loaded from /mosquitto/config/mosquitto.conf.
+1711479638: Opening ipv4 listen socket on port 1883.
+1711479638: Opening ipv6 listen socket on port 1883.
+1711479638: mosquitto version 2.0.18 running
+1711479639: New connection from 192.168.65.1:43829 on port 1883.
+1711479639: New client connected from 192.168.65.1:43829 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711479668: mosquitto version 2.0.18 terminating
+1711479668: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711479668: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711479698: mosquitto version 2.0.18 starting
+1711479698: Config loaded from /mosquitto/config/mosquitto.conf.
+1711479698: Opening ipv4 listen socket on port 1883.
+1711479698: Opening ipv6 listen socket on port 1883.
+1711479698: mosquitto version 2.0.18 running
+1711479699: New connection from 192.168.65.1:45360 on port 1883.
+1711479699: New client connected from 192.168.65.1:45360 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711479702: New connection from 172.24.0.3:46881 on port 1883.
+1711479702: New client connected from 172.24.0.3:46881 as auto-8C8834D1-797D-978D-3F74-9F7F515FC933 (p2, c1, k60).
+1711479786: Client auto-8C8834D1-797D-978D-3F74-9F7F515FC933 closed its connection.
+1711479787: mosquitto version 2.0.18 terminating
+1711479787: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711479787: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711479806: mosquitto version 2.0.18 starting
+1711479806: Config loaded from /mosquitto/config/mosquitto.conf.
+1711479806: Opening ipv4 listen socket on port 1883.
+1711479806: Opening ipv6 listen socket on port 1883.
+1711479806: mosquitto version 2.0.18 running
+1711479807: New connection from 192.168.65.1:46755 on port 1883.
+1711479807: New client connected from 192.168.65.1:46755 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711479820: mosquitto version 2.0.18 terminating
+1711479820: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711479820: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711479902: mosquitto version 2.0.18 starting
+1711479902: Config loaded from /mosquitto/config/mosquitto.conf.
+1711479902: Opening ipv4 listen socket on port 1883.
+1711479902: Opening ipv6 listen socket on port 1883.
+1711479902: mosquitto version 2.0.18 running
+1711479903: New connection from 192.168.65.1:48463 on port 1883.
+1711479903: New client connected from 192.168.65.1:48463 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711479905: New connection from 172.31.0.3:54869 on port 1883.
+1711479905: New client connected from 172.31.0.3:54869 as auto-7BD26443-53A0-3FA9-2809-950156812CA6 (p2, c1, k60).
+1711479925: Client mqtt-explorer-a5b1bd0a disconnected.
+1711479926: New connection from 192.168.65.1:48720 on port 1883.
+1711479926: New client connected from 192.168.65.1:48720 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711480016: Client auto-7BD26443-53A0-3FA9-2809-950156812CA6 closed its connection.
+1711480016: mosquitto version 2.0.18 terminating
+1711480016: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711480016: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711480218: mosquitto version 2.0.18 starting
+1711480218: Config loaded from /mosquitto/config/mosquitto.conf.
+1711480218: Opening ipv4 listen socket on port 1883.
+1711480218: Opening ipv6 listen socket on port 1883.
+1711480218: mosquitto version 2.0.18 running
+1711480218: New connection from 192.168.65.1:49870 on port 1883.
+1711480218: New client connected from 192.168.65.1:49870 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711480220: New connection from 172.31.0.3:43743 on port 1883.
+1711480220: New client connected from 172.31.0.3:43743 as auto-4DE1DE71-0CAE-D568-C52C-62B45658A65C (p2, c1, k60).
+1711480246: Client mqtt-explorer-a5b1bd0a disconnected.
+1711480247: New connection from 192.168.65.1:49931 on port 1883.
+1711480247: New client connected from 192.168.65.1:49931 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711480435: Client auto-4DE1DE71-0CAE-D568-C52C-62B45658A65C closed its connection.
+1711480435: mosquitto version 2.0.18 terminating
+1711480435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711480435: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711480447: mosquitto version 2.0.18 starting
+1711480447: Config loaded from /mosquitto/config/mosquitto.conf.
+1711480447: Opening ipv4 listen socket on port 1883.
+1711480447: Opening ipv6 listen socket on port 1883.
+1711480447: mosquitto version 2.0.18 running
+1711480448: New connection from 192.168.65.1:51281 on port 1883.
+1711480448: New client connected from 192.168.65.1:51281 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711480449: New connection from 172.31.0.3:34371 on port 1883.
+1711480449: New client connected from 172.31.0.3:34371 as auto-23733863-86D7-1E04-63DC-6B2924BEBE91 (p2, c1, k60).
+1711480456: Client mqtt-explorer-a5b1bd0a disconnected.
+1711480457: New connection from 192.168.65.1:51291 on port 1883.
+1711480457: New client connected from 192.168.65.1:51291 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711480488: Client auto-23733863-86D7-1E04-63DC-6B2924BEBE91 closed its connection.
+1711480489: mosquitto version 2.0.18 terminating
+1711480489: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711480489: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711480592: mosquitto version 2.0.18 starting
+1711480592: Config loaded from /mosquitto/config/mosquitto.conf.
+1711480592: Opening ipv4 listen socket on port 1883.
+1711480592: Opening ipv6 listen socket on port 1883.
+1711480592: mosquitto version 2.0.18 running
+1711480592: New connection from 192.168.65.1:51927 on port 1883.
+1711480592: New client connected from 192.168.65.1:51927 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711480595: New connection from 172.31.0.3:42475 on port 1883.
+1711480595: New client connected from 172.31.0.3:42475 as auto-E6CA9980-9269-23D9-E38C-2A1512B2B237 (p2, c1, k60).
+1711480602: Client mqtt-explorer-a5b1bd0a disconnected.
+1711480603: New connection from 192.168.65.1:52167 on port 1883.
+1711480603: New client connected from 192.168.65.1:52167 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711481687: Client auto-E6CA9980-9269-23D9-E38C-2A1512B2B237 closed its connection.
+1711481688: mosquitto version 2.0.18 terminating
+1711481688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711481688: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711481688: Error: I/O error.
+1711481688: Error: I/O error.
+1711483091: mosquitto version 2.0.18 starting
+1711483091: Config loaded from /mosquitto/config/mosquitto.conf.
+1711483091: Opening ipv4 listen socket on port 1883.
+1711483091: Opening ipv6 listen socket on port 1883.
+1711483091: mosquitto version 2.0.18 running
+1711483091: New connection from 192.168.65.1:55353 on port 1883.
+1711483091: New client connected from 192.168.65.1:55353 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711483093: New connection from 172.31.0.3:47543 on port 1883.
+1711483093: New client connected from 172.31.0.3:47543 as auto-32AFDFA4-8BA5-4E74-07D2-3BB73309CD13 (p2, c1, k60).
+1711483119: Client mqtt-explorer-a5b1bd0a disconnected.
+1711483120: New connection from 192.168.65.1:55413 on port 1883.
+1711483120: New client connected from 192.168.65.1:55413 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711483185: Client auto-32AFDFA4-8BA5-4E74-07D2-3BB73309CD13 closed its connection.
+1711483186: mosquitto version 2.0.18 terminating
+1711483186: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711483186: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711483204: mosquitto version 2.0.18 starting
+1711483204: Config loaded from /mosquitto/config/mosquitto.conf.
+1711483204: Opening ipv4 listen socket on port 1883.
+1711483204: Opening ipv6 listen socket on port 1883.
+1711483204: mosquitto version 2.0.18 running
+1711483205: New connection from 192.168.65.1:56323 on port 1883.
+1711483205: New client connected from 192.168.65.1:56323 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711483207: New connection from 172.31.0.3:57955 on port 1883.
+1711483207: New client connected from 172.31.0.3:57955 as auto-A4F2F2A6-B21A-6DB6-1D3B-EC7FE248AF9E (p2, c1, k60).
+1711483256: Client auto-A4F2F2A6-B21A-6DB6-1D3B-EC7FE248AF9E closed its connection.
+1711483257: mosquitto version 2.0.18 terminating
+1711483257: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711483257: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711483272: mosquitto version 2.0.18 starting
+1711483272: Config loaded from /mosquitto/config/mosquitto.conf.
+1711483272: Opening ipv4 listen socket on port 1883.
+1711483272: Opening ipv6 listen socket on port 1883.
+1711483272: mosquitto version 2.0.18 running
+1711483272: New connection from 192.168.65.1:58312 on port 1883.
+1711483272: New client connected from 192.168.65.1:58312 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711483275: New connection from 192.168.96.3:37373 on port 1883.
+1711483275: New client connected from 192.168.96.3:37373 as auto-7EEC0750-DC68-3EFD-6D39-AB9E93737C4F (p2, c1, k60).
+1711483418: Client auto-7EEC0750-DC68-3EFD-6D39-AB9E93737C4F closed its connection.
+1711483418: mosquitto version 2.0.18 terminating
+1711483418: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711483418: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711483433: mosquitto version 2.0.18 starting
+1711483433: Config loaded from /mosquitto/config/mosquitto.conf.
+1711483433: Opening ipv4 listen socket on port 1883.
+1711483433: Opening ipv6 listen socket on port 1883.
+1711483433: mosquitto version 2.0.18 running
+1711483434: New connection from 192.168.65.1:59811 on port 1883.
+1711483434: New client connected from 192.168.65.1:59811 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711483454: mosquitto version 2.0.18 terminating
+1711483454: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711483454: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711483480: mosquitto version 2.0.18 starting
+1711483480: Config loaded from /mosquitto/config/mosquitto.conf.
+1711483480: Opening ipv4 listen socket on port 1883.
+1711483480: Opening ipv6 listen socket on port 1883.
+1711483480: mosquitto version 2.0.18 running
+1711483480: New connection from 192.168.65.1:61554 on port 1883.
+1711483480: New client connected from 192.168.65.1:61554 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711483483: New connection from 192.168.144.3:47697 on port 1883.
+1711483483: New client connected from 192.168.144.3:47697 as auto-9DFC1361-B555-35AA-E989-7D099A1380DC (p2, c1, k60).
+1711483829: Client auto-9DFC1361-B555-35AA-E989-7D099A1380DC closed its connection.
+1711483829: mosquitto version 2.0.18 terminating
+1711483829: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711483829: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711485388: mosquitto version 2.0.18 starting
+1711485388: Config loaded from /mosquitto/config/mosquitto.conf.
+1711485388: Opening ipv4 listen socket on port 1883.
+1711485388: Opening ipv6 listen socket on port 1883.
+1711485388: mosquitto version 2.0.18 running
+1711485389: New connection from 192.168.65.1:63995 on port 1883.
+1711485389: New client connected from 192.168.65.1:63995 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711485391: New connection from 192.168.208.3:48943 on port 1883.
+1711485391: New client connected from 192.168.208.3:48943 as auto-68F6E405-0582-6AAB-E874-C16B5AF17A99 (p2, c1, k60).
+1711485414: Client auto-68F6E405-0582-6AAB-E874-C16B5AF17A99 closed its connection.
+1711485415: mosquitto version 2.0.18 terminating
+1711485415: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711485415: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711485415: Error: I/O error.
+1711485415: Error: I/O error.
+1711485608: mosquitto version 2.0.18 starting
+1711485608: Config loaded from /mosquitto/config/mosquitto.conf.
+1711485608: Opening ipv4 listen socket on port 1883.
+1711485608: Opening ipv6 listen socket on port 1883.
+1711485608: mosquitto version 2.0.18 running
+1711485608: New connection from 192.168.65.1:64969 on port 1883.
+1711485608: New client connected from 192.168.65.1:64969 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711485611: New connection from 192.168.208.3:40951 on port 1883.
+1711485611: New client connected from 192.168.208.3:40951 as auto-F71C53C2-C003-BF71-1F76-A83F5679B8DC (p2, c1, k60).
+1711485635: Client auto-F71C53C2-C003-BF71-1F76-A83F5679B8DC closed its connection.
+1711485635: mosquitto version 2.0.18 terminating
+1711485635: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711485635: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711485688: mosquitto version 2.0.18 starting
+1711485688: Config loaded from /mosquitto/config/mosquitto.conf.
+1711485688: Opening ipv4 listen socket on port 1883.
+1711485688: Opening ipv6 listen socket on port 1883.
+1711485688: mosquitto version 2.0.18 running
+1711485688: New connection from 192.168.65.1:16153 on port 1883.
+1711485688: New client connected from 192.168.65.1:16153 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711485691: New connection from 192.168.208.3:50301 on port 1883.
+1711485691: New client connected from 192.168.208.3:50301 as auto-345EAA6F-46FB-BE1D-0DAA-FF3D1C8A7426 (p2, c1, k60).
+1711485745: Client auto-345EAA6F-46FB-BE1D-0DAA-FF3D1C8A7426 closed its connection.
+1711485745: mosquitto version 2.0.18 terminating
+1711485745: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711485745: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711485784: mosquitto version 2.0.18 starting
+1711485784: Config loaded from /mosquitto/config/mosquitto.conf.
+1711485784: Opening ipv4 listen socket on port 1883.
+1711485784: Opening ipv6 listen socket on port 1883.
+1711485784: mosquitto version 2.0.18 running
+1711485785: New connection from 192.168.65.1:17059 on port 1883.
+1711485785: New client connected from 192.168.65.1:17059 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711485787: New connection from 192.168.208.3:48815 on port 1883.
+1711485787: New client connected from 192.168.208.3:48815 as auto-850292D1-29D0-74F0-044E-C592A4853C61 (p2, c1, k60).
+1711485840: Client auto-850292D1-29D0-74F0-044E-C592A4853C61 closed its connection.
+1711485841: mosquitto version 2.0.18 terminating
+1711485841: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711485841: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711486207: mosquitto version 2.0.18 starting
+1711486207: Config loaded from /mosquitto/config/mosquitto.conf.
+1711486207: Opening ipv4 listen socket on port 1883.
+1711486207: Opening ipv6 listen socket on port 1883.
+1711486207: mosquitto version 2.0.18 running
+1711486207: New connection from 192.168.65.1:18454 on port 1883.
+1711486207: New client connected from 192.168.65.1:18454 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711486211: New connection from 172.18.0.3:44331 on port 1883.
+1711486211: New client connected from 172.18.0.3:44331 as auto-84859A75-A95E-85C0-D317-138BFA49CFB2 (p2, c1, k60).
+1711486882: Client auto-84859A75-A95E-85C0-D317-138BFA49CFB2 closed its connection.
+1711486882: mosquitto version 2.0.18 terminating
+1711486882: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711486882: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711487088: mosquitto version 2.0.18 starting
+1711487088: Config loaded from /mosquitto/config/mosquitto.conf.
+1711487088: Opening ipv4 listen socket on port 1883.
+1711487088: Opening ipv6 listen socket on port 1883.
+1711487088: mosquitto version 2.0.18 running
+1711487089: New connection from 192.168.65.1:21118 on port 1883.
+1711487089: New client connected from 192.168.65.1:21118 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711487092: New connection from 172.18.0.3:34587 on port 1883.
+1711487092: New client connected from 172.18.0.3:34587 as auto-91EDAF1B-4D52-2E49-50F1-288388CF694D (p2, c1, k60).
+1711487166: Client auto-91EDAF1B-4D52-2E49-50F1-288388CF694D closed its connection.
+1711487166: mosquitto version 2.0.18 terminating
+1711487166: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711487166: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711487187: mosquitto version 2.0.18 starting
+1711487187: Config loaded from /mosquitto/config/mosquitto.conf.
+1711487187: Opening ipv4 listen socket on port 1883.
+1711487187: Opening ipv6 listen socket on port 1883.
+1711487187: mosquitto version 2.0.18 running
+1711487187: New connection from 192.168.65.1:22828 on port 1883.
+1711487187: New client connected from 192.168.65.1:22828 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711487191: New connection from 172.21.0.3:57777 on port 1883.
+1711487191: New client connected from 172.21.0.3:57777 as auto-70137E6A-4625-2E6C-38BB-18CF1AB53915 (p2, c1, k60).
+1711488111: Client auto-70137E6A-4625-2E6C-38BB-18CF1AB53915 closed its connection.
+1711488112: mosquitto version 2.0.18 terminating
+1711488112: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711488112: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1711488168: mosquitto version 2.0.18 starting
+1711488168: Config loaded from /mosquitto/config/mosquitto.conf.
+1711488168: Opening ipv4 listen socket on port 1883.
+1711488168: Opening ipv6 listen socket on port 1883.
+1711488168: mosquitto version 2.0.18 running
+1711488169: New connection from 192.168.65.1:26085 on port 1883.
+1711488169: New client connected from 192.168.65.1:26085 as mqtt-explorer-a5b1bd0a (p2, c1, k60).
+1711488172: New connection from 172.28.0.3:55449 on port 1883.
+1711488172: New client connected from 172.28.0.3:55449 as auto-5B0A4D9E-413C-7071-44F8-CC15CED523E4 (p2, c1, k60).
+1711488177: Client auto-5B0A4D9E-413C-7071-44F8-CC15CED523E4 closed its connection.
+1711488178: mosquitto version 2.0.18 terminating
+1711488178: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711488178: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
